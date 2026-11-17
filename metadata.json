@@ -1,0 +1,6 @@
+{
+  "name": "Storyteller Co-Pilot",
+  "description": "Episodic gothic suspense co-pilot and live Gemini pipeline test studio enforcing psychological heartbeat dialogue shifts and stress-driven atmospheric escalation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
